@@ -71,7 +71,7 @@ conference:
 previous_meeting:
   name: DALI 2018
   url: "http://dalimeeting.org/dali2018/"
-baseurl: "dali2019/" # the subpath of your site, e.g. /blog/
+baseurl: "/dali2019" # the subpath of your site, e.g. /blog/
 url: "http://dalimeeting.org" # the base hostname & protocol for your site
 youtube:
   height: 315
